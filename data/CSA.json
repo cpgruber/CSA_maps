@@ -1628,6 +1628,19 @@
           40.53572049118792
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "CSA": "yayaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.355712890625,
+          41.01669249358722
+        ]
+      }
     }
   ]
 }
